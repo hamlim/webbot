@@ -10,11 +10,11 @@ Develop a schema to handle text messaging of large groups of individuals.
 
 ### master:
 
-    The live branch of the project (what is in use to date)
+The live branch of the project (what is in use to date)
 
 ### gh-pages:
 
-    The website code for the launch page
+The website code for the launch page
 
 
 ## Contribution Rules:
