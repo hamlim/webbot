@@ -284,9 +284,9 @@ html {
     margin-right: 50%;
 }
 
-.utilities__mv0 {
-    margin-top: 0;
-    margin-bottom: 0;
+.trump_utilities__mv0 {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
 }
 .utilities__mv1 {
     margin-top: 1%;
